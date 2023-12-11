@@ -1,5 +1,5 @@
 
-<a href="https://nailaalissa.github.io/Naila-AlissaCV/" > <h1>Naila Alissa Curriculum Vitae </h1> </a>
+<a href="https://nailaalissa.github.io/Naila-AlissaCV/">Naila Alissa Curriculum Vitae </a>
 
 <h3>Welcome to the repository for my HTML-based Curriculum Vitae (CV)!</h3>
 <p>This project showcases my professional background, skills, and experience in a simple and accessible format.</p>
