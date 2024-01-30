@@ -1,5 +1,4 @@
 <a href="https://nailaalissa.github.io/Naila-AlissaCV/">Naila Alissa CV </a>
-
 Welcome to the repository for my HTML-based Curriculum Vitae (CV)!
 This project showcases my professional background, skills, and experience in a simple and accessible format.
 
